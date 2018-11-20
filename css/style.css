@@ -19,29 +19,6 @@ body {
     width: 100%;
     height: 100%; }
 
-#blog-header {
-  position: relative;
-  background: url(../img/showcase.jpg);
-  background-attachment: fixed;
-  background-position: 0px -150px;
-  height: 200px; }
-  #blog-header .primary-overlay {
-    background: rgba(50, 146, 166, 0.1);
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%; }
-
-.blog-header-image {
-  background: url(../img/domain-names.jpg);
-  height: 400px;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center;
-  width: 100%;
-  margin-top: 3rem; }
-
 @media (max-width: 768px) {
   #showcase {
     min-height: 500px; }

@@ -36,34 +36,34 @@ body {
 }
 
 
-#blog-header {
-    position: relative;
-    background:url(../img/showcase.jpg);
-    background-attachment: fixed;
-    background-position: 0px -150px;
-    height: 200px;
+// #blog-header {
+//     position: relative;
+//     background:url(../img/showcase.jpg);
+//     background-attachment: fixed;
+//     background-position: 0px -150px;
+//     height: 200px;
 
-    .primary-overlay {
-        background:$primary-overlay;
-        position: absolute;
-        top:0;
-        left:0;
-        width: 100%;
-        height: 100%;
+//     .primary-overlay {
+//         background:$primary-overlay;
+//         position: absolute;
+//         top:0;
+//         left:0;
+//         width: 100%;
+//         height: 100%;
 
-    }
-}
+//     }
+// }
 
 
-.blog-header-image{
-    background:url(../img/domain-names.jpg);
-    height: 400px;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: center;
-    width:100%;
-    margin-top: 3rem;
-}
+// .blog-header-image{
+//     background:url(../img/domain-names.jpg);
+//     height: 400px;
+//     background-repeat: no-repeat;
+//     background-attachment: fixed;
+//     background-position: center;
+//     width:100%;
+//     margin-top: 3rem;
+// }
 
 
 
