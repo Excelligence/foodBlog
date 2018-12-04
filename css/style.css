@@ -8,6 +8,8 @@ body {
 
 #showcase {
   position: relative;
+  top: 0;
+  left: 0;
   background: url(../img/showcase.jpg);
   min-height: 675px;
   background-repeat: no-repeat; }
